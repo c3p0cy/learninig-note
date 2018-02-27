@@ -9,7 +9,7 @@ PWA 是一個讓 Web App 可以類似於 Native App 的使用者體驗的技術�
 [微軟也在 2018/02 宣佈 Windows 10 及 Edge 支援 PWA][Welcoming Progressive Web Apps to Microsoft Edge and Windows 10]，所以 PWA 應該會是未來 Web App 發展的主軸之一。
 
 ---
-## Used Technics
+## Technologies
 > * [Web App Manifest](#web-app-manifest)
 > * [Service Work](#service-work)
 > * [Push Notification](#push-notification)
@@ -18,6 +18,7 @@ PWA 是一個讓 Web App 可以類似於 Native App 的使用者體驗的技術�
 > 是一個 JSON 格式的文件，它提供了應用程式相關的資訊（像是名稱、作者、圖示，和描述）。 
 > manifest 的功用是將 Web 應用程式安裝到設備的主畫面，為用戶提供更快速的訪問和更豐富的體驗。
 > \~~ From [Mozilla: Web App Manifest][]
+* [W3C Spec](https://www.w3.org/TR/appmanifest/)
 * How to use: [Mozilla: Web App Manifest][]
   1. manifest.json
   ```json
@@ -65,13 +66,12 @@ PWA 是一個讓 Web App 可以類似於 Native App 的使用者體驗的技術�
   ```html
   <link rel="manifest" href="manifest.json">
   ```
-  
+
 - ### Service Work
 - ### Push Notification
 ---
 ## References
-
-1. [你的首個 Progressive Web App][link1]
+1. [你的首個 Progressive Web App][]
 2. [下一代 Web 应用模型 —— Progressive Web App](https://huangxuan.me/2017/02/09/nextgen-web-pwa/)
 3. [Welcoming Progressive Web Apps to Microsoft Edge and Windows 10][]
 
