@@ -18,7 +18,7 @@ PWA 是一個讓 Web App 可以類似於 Native App 的使用者體驗的技術�
 > 是一個 JSON 格式的文件，它提供了應用程式相關的資訊（像是名稱、作者、圖示，和描述）。 
 > manifest 的功用是將 Web 應用程式安裝到設備的主畫面，為用戶提供更快速的訪問和更豐富的體驗。
 > \~~ From [Mozilla: Web App Manifest][]
-* [W3C Spec](https://www.w3.org/TR/appmanifest/)
+* [W3C Spec](https://www.w3.org/TR/appmanifest/?target=_blank)
 * How to use: [Mozilla: Web App Manifest][]
   1. manifest.json
   ```json
@@ -76,6 +76,6 @@ PWA 是一個讓 Web App 可以類似於 Native App 的使用者體驗的技術�
 3. [Welcoming Progressive Web Apps to Microsoft Edge and Windows 10][]
 
 
-[你的首個 Progressive Web App]: https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/?hl=zh-tw
-[Welcoming Progressive Web Apps to Microsoft Edge and Windows 10]: https://blogs.windows.com/msedgedev/2018/02/06/welcoming-progressive-web-apps-edge-windows-10/#Zt6AeeVsUMl1mVEf.97
-[Mozilla: Web App Manifest]: https://developer.mozilla.org/zh-TW/docs/Web/Manifest
+[你的首個 Progressive Web App]: https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/?hl=zh-tw&target=_blank
+[Welcoming Progressive Web Apps to Microsoft Edge and Windows 10]: https://blogs.windows.com/msedgedev/2018/02/06/welcoming-progressive-web-apps-edge-windows-10/#Zt6AeeVsUMl1mVEf.97?target=_blank
+[Mozilla: Web App Manifest]: https://developer.mozilla.org/zh-TW/docs/Web/Manifest?target=_blank
