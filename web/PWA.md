@@ -1,7 +1,7 @@
 # PWA(Progressive Web App)
-> * [Introduction](#Introduction)
-> * [Technics](#Technics)
->   - [Web App Manifest][#Web App Manifest]
+> * [Introduction](#introduction)
+> * [Technics](#technics)
+>   - [Web App Manifest][#web-app-manifest]
 ---
 ## Introduction
 PWA 是一個讓 Web App 可以類似於 Native App 的使用者體驗的技術，它可以透過 *Service Worker* 來在離線仍可以使用，也可以透過 *W3C manifests meta data* 和 *Service Worker* 的登記，讓搜索引擎能夠找到 Web App，還可以像 Native App 一般掛在主螢幕上…，詳細可帶來的效益可以參考[你的首個 Progressive Web App][]。 
@@ -10,7 +10,7 @@ PWA 是一個讓 Web App 可以類似於 Native App 的使用者體驗的技術�
 
 ---
 ## Technics
-> * [Web App Manifest](#Web App Manifest)
+> * [Web App Manifest](#web-app-manifest)
 > * Service Work
 > * Push Notification
 
@@ -29,3 +29,4 @@ PWA 是一個讓 Web App 可以類似於 Native App 的使用者體驗的技術�
 
 [你的首個 Progressive Web App]: https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/?hl=zh-tw
 [Welcoming Progressive Web Apps to Microsoft Edge and Windows 10]: https://blogs.windows.com/msedgedev/2018/02/06/welcoming-progressive-web-apps-edge-windows-10/#Zt6AeeVsUMl1mVEf.97
+[#web-app-manifest]: 
